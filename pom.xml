@@ -67,13 +67,13 @@
         <repository>
             <id>nexus</id>
             <name>Jendarey Technologies Releases Nexus Repository</name>
-            <url>http://3.87.24.168:8081/jendarey/repository/cookies-releases/</url>
+            <url>http://54.146.76.101:8081/jendarey/repository/cookies-releases/</url>
         </repository>
 
         <snapshotRepository>
             <id>nexus</id>
             <name>Jendarey Technologies Snapshot Nexus Repository</name>
-            <url>http://3.87.24.168:8081/jendarey/repository/cookies-snapshots/</url> 
+            <url>http://54.146.76.101:8081/jendarey/repository/cookies-snapshots/</url> 
         </snapshotRepository>
      </distributionManagement>
 
